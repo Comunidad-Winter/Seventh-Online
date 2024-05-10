@@ -1,0 +1,218 @@
+[INIT]
+NumQuests=12
+
+[QUEST1]
+Nombre=Cacería de Lobos
+Descripcion=Para completar la misión debes matar 5 lobos y volver a hablar con Harghlem. Como recompensa recibirás 5 puntos de torneo. Esta misión no se puede volver a hacer.
+NivelRequerido=1
+
+NPCKillIndex=501
+CantNPCs=5
+
+OBJIndex=0
+CantOBJs=0
+
+PuntosTorneoReward=5
+
+OBJRewardIndex=0
+CantOBJsReward=0
+
+Redoable=0
+
+[QUEST2]
+Nombre=Combate Egipcio
+Descripcion=Para completar la misión debes matar 7 Siervos de Set y regresar a hablar con Habrid. Como recompensa recibirás 10 puntos de torneo.
+NivelRequerido=25
+
+NPCKillIndex=600
+CantNPCs=7
+
+OBJIndex=0
+CantOBJs=0
+
+PuntosTorneoReward=10
+
+OBJRewardIndex=0
+CantOBJsReward=0
+
+Redoable=1
+
+[QUEST3]
+Nombre=Defendiendo el Bosque
+Descripcion=Para completar la misión debes matar 3 Trolles del Bosque y regresar a hablar con Hearlm. Como recompensa recibirás 3 puntos de torneo.
+NivelRequerido=15
+
+NPCKillIndex=601
+CantNPCs=3
+
+OBJIndex=0
+CantOBJs=0
+
+PuntosTorneoReward=3
+
+OBJRewardIndex=0
+CantOBJsReward=0
+
+Redoable=1
+
+[QUEST4]
+Nombre=Tormentas Eléctricas
+Descripcion=Para completar la misión debes matar 8 Djinn del Viento y regresar a hablar con Hastek. Como recompensa 15 puntos de torneo.
+NivelRequerido=32
+
+NPCKillIndex=602
+CantNPCs=8
+
+OBJIndex=0
+CantOBJs=0
+
+PuntosTorneoReward=15
+
+OBJRewardIndex=0
+CantOBJsReward=0
+
+Redoable=1
+
+[QUEST5]
+Nombre=Sombra de la Guadaña
+Descripcion=Para completar la misión debes matar 8 Sombras y regresar a hablar con Ioneth. Como recompensa recibirás 15 puntos de torneo.
+NivelRequerido=32
+
+NPCKillIndex=603
+CantNPCs=8
+
+OBJIndex=0
+CantOBJs=0
+
+PuntosTorneoReward=15
+
+OBJRewardIndex=0
+CantOBJsReward=0
+
+Redoable=1
+
+[QUEST6]
+Nombre=Conociendo nuevas criaturas
+Descripcion=Para completar la misión debes matar 5 Dinosaurios Enanos y regresar a hablar con Geologo Teckh. Como recompensa recibirás 5 puntos de torneo.
+NivelRequerido=20
+
+NPCKillIndex=604
+CantNPCs=5
+
+OBJIndex=0
+CantOBJs=0
+
+PuntosTorneoReward=5
+
+OBJRewardIndex=0
+CantOBJsReward=0
+
+Redoable=1
+
+[QUEST7]
+Nombre=Héroe del Inframundo
+Descripcion=Para completar la misión debes matar 5 Dragones Infernales y regresar a hablar con Chao Ming. Como recompensa recibirás 50 puntos de torneo.
+NivelRequerido=38
+
+NPCKillIndex=572
+CantNPCs=5
+
+OBJIndex=0
+CantOBJs=0
+
+PuntosTorneoReward=50
+
+OBJRewardIndex=0
+CantOBJsReward=0
+
+Redoable=1
+
+[QUEST8]
+Nombre=Cavernas Olvidadas
+Descripcion=Para completar la misión debes matar 3 Golems de Lava y regresar a hablar con Elenor. Como recompensa recibirás 12 puntos de torneo.
+NivelRequerido=38
+
+NPCKillIndex=605
+CantNPCs=3
+
+OBJIndex=0
+CantOBJs=0
+
+PuntosTorneoReward=12
+
+OBJRewardIndex=0
+CantOBJsReward=0
+
+Redoable=1
+
+[QUEST9]
+Nombre=Caceria de Dragones
+Descripcion=Para completar la misión debes matar 3 Dragones Plateados y regresar a hablar con Elenor. Como recompensa recibirás 25 puntos de torneo.
+NivelRequerido=38
+
+NPCKillIndex=564
+CantNPCs=3
+
+OBJIndex=0
+CantOBJs=0
+
+PuntosTorneoReward=25
+
+OBJRewardIndex=0
+CantOBJsReward=0
+
+Redoable=1
+
+[QUEST10]
+Nombre=En busqueda de los terodactilos
+Descripcion=Para completar la misión debes matar 8 Terodactilos y regresar a hablar con Chao Ming. Como recompensa recibirás 15 puntos de torneo.
+NivelRequerido=38
+
+NPCKillIndex=563
+CantNPCs=8
+
+OBJIndex=0
+CantOBJs=0
+
+PuntosTorneoReward=15
+
+OBJRewardIndex=0
+CantOBJsReward=0
+
+Redoable=1
+
+[QUEST11]
+Nombre=Exterminacion de Diablos
+Descripcion=Para completar la misión debes matar 3 Diablos y regresar a hablar con Hastek. Como recompensa 15 puntos de torneo.
+NivelRequerido=32
+
+NPCKillIndex=565
+CantNPCs=3
+
+OBJIndex=0
+CantOBJs=0
+
+PuntosTorneoReward=15
+
+OBJRewardIndex=0
+CantOBJsReward=0
+
+Redoable=1
+
+[QUEST12]
+Nombre=Encontrando nuevas especies
+Descripcion=Para completar la misión debes matar 5 Medusas Reinas y regresar a hablar con Geologo Teckh. Como recompensa recibirás 5 puntos de torneo.
+NivelRequerido=20
+
+NPCKillIndex=584
+CantNPCs=5
+
+OBJIndex=0
+CantOBJs=0
+
+PuntosTorneoReward=5
+
+OBJRewardIndex=0
+CantOBJsReward=0
+
+Redoable=1

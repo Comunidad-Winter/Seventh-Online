@@ -1,0 +1,66 @@
+#######################Event Master################################
+#######################Event Master################################
+#######################Event Master################################
+
+/HORA Envía un mensaje Broadcast con la hora del servidor.
+/TELEP YO mapa x y Teleporta al consejero, al mapa número MAPA, coordenadas X e Y.
+/IRA nick Teleporta al gm/consejero donde se encuentra el personaje.
+/GMSG texto Mensaje broadcast entre personajes del Staff.
+/INVISIBLE Hace invisible al gm/consejero.
+/SILENCIAR nick Impide que el usuario envíe utilice el comando /denunciar.
+/oro /plata /bronce [Se utiliza /oro nick para dar copas de oro plata o bronce.
+/hacertorneo [Para hacer torneos]
+/cerrartorneo [Para cerrar torneo]
+/descalificar [Descalifica a un usuario si mando al torneo, /descalificar nick]
+/pelea1 nick@nick [/pelea1 pepe@paco para torneo dice: Pepe vs Paco y cuenta hasta 3 en la arena 1]
+/pelea2 nick@nick [/pelea2 pepe@paco para torneo dice: Pepe vs Paco y cuenta hasta 3 en la arena 2]
+/pelea3 nick@nick [/pelea3 pepe@paco para torneo dice: Pepe vs Paco y cuenta hasta 3 en la arena 3]
+/pelea4 nick@nick [/pelea4 pepe@paco para torneo dice: Pepe vs Paco y cuenta hasta 3 en la arena 4]
+/versus1 nick@nick@nick@nick [/versus1 pepe@paco@tito@lito dice: Pepe y Paco vs Tito y Lito y cuenta hasta 3 en la arena 1]
+/versus2 nick@nick@nick@nick [/versus2 pepe@paco@tito@lito dice: Pepe y Paco vs Tito y Lito y cuenta hasta 3 en la arena 2]
+/versus3 nick@nick@nick@nick [/versus3 pepe@paco@tito@lito dice: Pepe y Paco vs Tito y Lito y cuenta hasta 3 en la arena 3]
+/versus4 nick@nick@nick@nick [/versus4 pepe@paco@tito@lito dice: Pepe y Paco vs Tito y Lito y cuenta hasta 3 en la arena 4]
+/tres1 nick@nick@nick@nick@nick@nick [/tres1 pepe@paco@tito@lito@feo@nene dice: Pepe, Paco y Tito vs Lito, feo y nene cuenta hasta 3 en la arena 1]
+/tres2 nick@nick@nick@nick@nick@nick [/tres2 pepe@paco@tito@lito@feo@nene dice: Pepe, Paco y Tito vs Lito, feo y nene cuenta hasta 3 en la arena 2]
+/tres3 nick@nick@nick@nick@nick@nick [/tres3 pepe@paco@tito@lito@feo@nene dice: Pepe, Paco y Tito vs Lito, feo y nene cuenta hasta 3 en la arena 3]
+/tres4 nick@nick@nick@nick@nick@nick [/tres4 pepe@paco@tito@lito@feo@nene dice: Pepe, Paco y Tito vs Lito, feo y nene cuenta hasta 3 en la arena 4]
+/cuatro1 nick@nick@nick@nick@nick@nick@nick@nick [/cuatro1 pepe@paco@tito@lito@feo@nene@eze@dada dice: Pepe, Paco, Tito y Lito vs feo, nene, eze y dada cuenta hasta 3 en la arena 1]
+/cuatro2 nick@nick@nick@nick@nick@nick@nick@nick [/cuatro2 pepe@paco@tito@lito@feo@nene@eze@dada dice: Pepe, Paco, Tito y Lito vs feo, nene, eze y dada cuenta hasta 3 en la arena 2]
+/cuatro3 nick@nick@nick@nick@nick@nick@nick@nick [/cuatro3 pepe@paco@tito@lito@feo@nene@eze@dada dice: Pepe, Paco, Tito y Lito vs feo, nene, eze y dada cuenta hasta 3 en la arena 3]
+/cuatro4 nick@nick@nick@nick@nick@nick@nick@nick [/cuatro4 pepe@paco@tito@lito@feo@nene@eze@dada dice: Pepe, Paco, Tito y Lito vs feo, nene, eze y dada cuenta hasta 3 en la arena 4]
+/crt [se utiliza /crt num Ej: /crt 5 cuenta regresiva desde 5 solo en mapa de torneos 81] USAR SIEMPRE QUE HAGAN TORNEO NO USAR MAS /CR PARA TORNEO.
+/medalla [se utiliza /medalla pepe para dar medalla a pepe]
+Con doble click revivis al usuario.
+
+Para las finales de los torneos:
+
+/peleaf [1vs1 en la Arena 1]
+/versusf [2vs2 en la Arena 1]
+/tresf [3vs3 en la Arena 1]
+/cuatrof [4vs4 en la Arena 1]
+
+ /Runek Nick
+ /Traer Nick
+
+/rmsg Mensaje por consola
+
+#######################Semi Dioses#################################
+#######################Semi Dioses#################################
+#######################Semi Dioses#################################
+
+/activarconsultas [Para activar las consultas cuando el usuario pone /CONSULTA lo lleva al mapa de gms y le atendes la consulta. IMPORTANTE: Al usuario lo lleva al mapa 19 29 55, el Gm TENDRÀ QUE ESTAR EN EL MAPA 19 29 53.
+/desactivarconsultas [Desactiva las consultas]
+/solu Nick [Se utiliza /solu pepe] Si pepe esta en consulta lo lleva a ulla y se le termina la consulta a pepe.
+/Advertir [Se utiliza /advertir nick@motivo ej: /advertir pepe@por romper los huevos]
+/vercaptions nick [/vercaptions pepe muestra los procesos y los programas abiertos de pepe]
+/cr [Se utiliza /cr num ej: /cr 10 cuenta regresiva desde 10]
+
+
+#######################   Dioses  ################################
+#######################   Dioses  ################################
+#######################   Dioses  ################################
+
+
+/ci crea items
+/buscar [Se utiliza /buscar "item" ej: /buscar casco imperial]
+/mod Nick clase/head/body nombreclase/numerohead/numerobody

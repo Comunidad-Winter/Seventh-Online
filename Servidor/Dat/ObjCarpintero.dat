@@ -1,0 +1,53 @@
+[INIT]
+NumObjs=17
+
+[Obj1] ' Cuchara
+Index=163
+
+[Obj2] ' Fragata
+Index=474
+
+[Obj3] ' Laud Mágico
+Index=696
+
+[Obj4] 'arco infernal
+Index=906
+
+[Obj5] ' Arco simple
+Index=478
+
+[Obj6] ' Arco compuesto
+Index=479
+
+[Obj7] ' Flecha
+Index=480
+
+[Obj8] 'Flecha + 1
+Index=551
+
+[Obj9] 'Flecha + 2
+Index=552
+
+[Obj10] 'Flecha + 3
+Index=553
+
+[Obj11] ' Laud
+Index=469
+
+[Obj12] 'Tambor
+Index=362
+
+[Obj13] 'Flauta
+Index=540
+
+[Obj14] 'Mueble 
+Index=167
+
+[Obj15] 'simple reforzado
+Index=663
+
+[Obj16] 'compuesto reforzado
+Index=664
+
+[Obj17] 'arco cazador
+Index=665

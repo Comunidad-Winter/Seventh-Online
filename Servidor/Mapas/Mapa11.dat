@@ -1,0 +1,11 @@
+[MAPA11]
+Name=Entrada al Castillo Norte
+MusicNum=15
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CAMPO
+BackUp= 0
+Pk=0
